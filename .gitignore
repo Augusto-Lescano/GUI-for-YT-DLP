@@ -1,0 +1,5 @@
+#para no subir las siguientes carpetas
+obj/
+bin/
+.vs/
+yt-dlp/
